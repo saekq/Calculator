@@ -5,7 +5,10 @@ Basic arithmetic operations: addition, subtraction, multiplication, and division
 Clear button to reset the calculator.
 Keyboard support for convenient input.
 
+![calc_preview](https://github.com/saekq/Calculator/assets/73390677/1412f731-55cb-4631-8135-1625471129cd)
+
 ### Installation
+
 To run the calculator locally, follow these steps:
 ```
 git clone https://github.com/saekq/calculator
