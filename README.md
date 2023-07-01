@@ -1,7 +1,7 @@
 # Calculator
 
 ## Features
-Basic arithmetic operations: addition, subtraction, multiplication, and division.
+Basic arithmetic operations: addition, subtraction, multiplication, division, percentages and clear.
 Clear button to reset the calculator.
 Keyboard support for convenient input.
 
