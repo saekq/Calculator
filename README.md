@@ -12,11 +12,9 @@ git clone https://github.com/saekq/calculator
 ```
 Navigate to the project directory:
 ```
-```
 cd calculator
 ```
 Install the dependencies:
-```
 ```
 npm install
 ```
