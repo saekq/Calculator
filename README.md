@@ -3,7 +3,6 @@
 ## Features
 Basic arithmetic operations: addition, subtraction, multiplication, division, percentages and clear.
 Clear button to reset the calculator.
-Keyboard support for convenient input.
 
 ![calc_preview](https://github.com/saekq/Calculator/assets/73390677/1412f731-55cb-4631-8135-1625471129cd)
 
